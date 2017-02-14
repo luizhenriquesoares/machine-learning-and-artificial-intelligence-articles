@@ -6,7 +6,9 @@
  ou função de perda (loss function).
 
  A Cost function é uma função de avaliação, que mede quão bem seu modelo é preciso, a parti dos dados que você forneceu.
+ 
  ## Formula Cost function
+
  ![Costfunction](https://uploaddeimagens.com.br/images/000/836/427/original/cost_function.png?1487075442)
  
 
