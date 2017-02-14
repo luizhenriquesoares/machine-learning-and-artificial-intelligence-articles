@@ -8,4 +8,4 @@ As técnicas de machine learning empregam um princípio de inferência conhecido
 Os processo de aprendizagem Indutivo podem ser divididos em supervisionado e não supervisionado. No processo de aprendizagem supervisionado, tem-se a figura do professor externo, no qual ensinam para os algoritmos a representação estatísticos para o processo de aprendizagem de novos conjuntos de dados
    
 
-Continua...
+![robozinho](https://uploaddeimagens.com.br/images/000/836/238/original/download.jpg)
