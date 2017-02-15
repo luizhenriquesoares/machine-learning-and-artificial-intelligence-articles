@@ -20,11 +20,10 @@
  >o modelo é útil ? 
  
  
- O teste do valor-p ajuda a interpretar se há evidência estatísticas. Se o valor-p do teste F, for menor que (F < 0,05), há evidências estatísticas, que pelo menos 
-uma variável do modelo tem relação com a variável target. 
+ O teste do valor-p ajuda a interpretar se há evidência estatísticas. Se o valor-p do teste F é menor que (F < 0,05), há evidências estatísticas.
  
  
-Caso o valor maior (F > 0,05), seu modelo não tem dados suficiente ou seus dados estão incorretos, para prever o a saída do  seu modelo. 
+Caso o valor é maior (F > 0,05), seu modelo não tem dados suficiente ou seus dados estão incorretos, para prever o a saída do  seu modelo. 
  
  
 ## Em Regras Gerais: 
