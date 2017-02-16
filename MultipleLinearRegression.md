@@ -3,7 +3,7 @@
  
 - Na Regressão Linear Múltipla, temos um problema que é a alta colinearidade, que é a alta taxa de correlação com as variáveis preditoras. 
   
-    > Quanto maior a colinearidade maior a variância, formando o modelo com overfitting. 
+    > Quanto maior a colinearidade maior a variância, tornando o modelo com overfitting. 
  
  
 ## Como avaliar ou interpretar um modelo de regressão? 
