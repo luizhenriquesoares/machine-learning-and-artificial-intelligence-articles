@@ -13,7 +13,7 @@ Abaixo vamos listar algumas etapas das tarefas de pré-processamento:
 
 É umas das primeiras tarefas dentro do pré-processamento, é colocar seus dados na mesma escala, muitos do algoritmos vão se beneficiar com os resultados.
 
-> Esta etapa também é chamda de normalização, consiste em colocar os dados numa escala de 0 á 1.
+> Esta etapa também é chamada de normalização, consiste em colocar os dados numa escala de 0 á 1.
 
 O scikit-Learning possui uma função para esta etapa chamada MinMaxScaler()
 
