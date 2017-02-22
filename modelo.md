@@ -217,6 +217,7 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 
 * https://github.com/luizhenriquesoares/data-science-ipython-notebooks
 * https://pt.coursera.org/learn/machine-learning
+* http://www.datascienceacademy.com.br/
 
 # Github: 
 
@@ -226,4 +227,4 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://github.com/rdpeng
 
 > https://github.com/rasbt/python-machine-learning-book
-> https://github.com/rasbt/deep-learning-book
+> https://github.com/rasbt/deep-learning-book 
