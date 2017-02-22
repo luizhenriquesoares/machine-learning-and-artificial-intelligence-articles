@@ -200,13 +200,10 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
  
 # Função Ativação 
  
- 
 * sigmoid  
-* softMax 
- 
- 
+* softMax  
+
 ## Deep Leaning 
- 
  
 * TensorFlow - No Backend 
 * Keras - No Front-end 
@@ -217,6 +214,8 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://github.com/luizhenriquesoares/data-science-ipython-notebooks
 * https://pt.coursera.org/learn/machine-learning
 * http://www.datascienceacademy.com.br/
+* https://www.kaggle.com/
+* http://libgen.io/ -> baixar livros
 
 # Github: 
 
