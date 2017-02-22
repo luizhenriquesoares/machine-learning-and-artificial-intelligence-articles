@@ -224,5 +224,5 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://github.com/amueller
 * https://github.com/rdpeng
 
-> https://github.com/rasbt/python-machine-learning-book
-> https://github.com/rasbt/deep-learning-book 
+* https://github.com/rasbt/python-machine-learning-book
+* https://github.com/rasbt/deep-learning-book 
