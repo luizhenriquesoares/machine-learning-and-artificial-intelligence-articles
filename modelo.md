@@ -220,10 +220,10 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 
 # Github: 
 
-https://github.com/rasbt
-https://github.com/hmason
-https://github.com/amueller
-https://github.com/rdpeng
+* https://github.com/rasbt
+* https://github.com/hmason
+* https://github.com/amueller
+* https://github.com/rdpeng
 
 > https://github.com/rasbt/python-machine-learning-book
 > https://github.com/rasbt/deep-learning-book
