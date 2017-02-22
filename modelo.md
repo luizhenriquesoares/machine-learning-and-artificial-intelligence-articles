@@ -1,5 +1,4 @@
-# Processo de aprendizagem.  
- 
+
  
 # Ferramentas - Machine Learning  
  
