@@ -223,9 +223,20 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://github.com/hmason
 * https://github.com/amueller
 * https://github.com/rdpeng
+* https://github.com/jakevdp
 
 
 # Books
 
 * https://github.com/rasbt/python-machine-learning-book
 * https://github.com/rasbt/deep-learning-book 
+* Python Machine Learning - Sebastian Raschka
+* Andreas C. Müller, Sarah Guido-Introduction to Machine Learning with Python_ A Guide for Data Scientists-O’Reilly Media (2016)
+
+# Video
+
+* Deep Learning
+
+> Deep Learning in Practice: Speech Recognition and Beyond
+
+ http://events.technologyreview.com/video/watch/andrew-ng-deep-learning/?utm_medium=native_social&utm_source=facebook&utm_campaign=emtech_digital_reg&utm_term=artificial_intelligence&utm_content=ng_video
