@@ -16,8 +16,6 @@
  
 Modelos e algoritmos 
  
- 
--  tipos de aprendizagem por indução (Supervisionado, não Supervisionado e por Reforço) 
 # Tarefas de aprendizagem (Supervisionado) 
  
  
