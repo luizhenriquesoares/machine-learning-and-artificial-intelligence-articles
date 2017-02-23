@@ -9,7 +9,7 @@
 * numpy - http://www.numpy.org/ 
 * matplotlib - http://matplotlib.org/ 
 * scipy - https://www.scipy.org/ 
-* seaboarn - https://seaborn.pydata.org/ 
+* seaborn - https://seaborn.pydata.org/ 
 * statsModel - http://statsmodels.sourceforge.net/ 
 * Dataset -> Estudos UCI Machine Learning  - http://archive.ics.uci.edu/ml/ 
  
@@ -18,7 +18,7 @@ Modelos e algoritmos
  
  
 -  tipos de aprendizagem por indução (Supervisionado, não Supervisionado e por Reforço) 
-> tarefas de aprendizagem (Supervisionado) 
+# Tarefas de aprendizagem (Supervisionado) 
  
  
 ## Regressão  
