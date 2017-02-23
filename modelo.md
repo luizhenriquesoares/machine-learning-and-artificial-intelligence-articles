@@ -203,7 +203,7 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * sigmoid  
 * softMax  
 
-## Deep Leaning 
+## Deep Learning 
  
 * TensorFlow - No Backend 
 * Keras - No Front-end 
@@ -217,7 +217,7 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://www.kaggle.com/
 * http://libgen.io/ -> baixar livros
 
-# Github: 
+# Github
 
 * https://github.com/rasbt
 * https://github.com/hmason
