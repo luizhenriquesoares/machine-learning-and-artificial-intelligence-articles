@@ -221,6 +221,9 @@ muito variada. Útil quando usamos algoritmos de redes neurais ou que usam medid
 * https://github.com/amueller
 * https://github.com/rdpeng
 * https://github.com/jakevdp
+* https://github.com/andrewflowers
+* https://github.com/poonam20
+* https://github.com/joelgrus
 
 
 # Books
