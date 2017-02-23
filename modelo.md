@@ -13,11 +13,10 @@
 * statsModel - http://statsmodels.sourceforge.net/ 
 * Dataset -> Estudos UCI Machine Learning  - http://archive.ics.uci.edu/ml/ 
  
- 
-Modelos e algoritmos 
- 
+
 # Tarefas de aprendizagem (Supervisionado) 
  
+ ===============================================================
  
 ## Regressão  
  
