@@ -4,7 +4,7 @@
 
 Glossário:
 
-* variável (X) -> Atributo ou Features, são os atributos candidados a variáveis preditoras
+* variável (X) -> Atributo ou Features, são os atributos candidatos a variáveis preditoras
 
 * variável (y) -> Variável Target ou Resposta, é a variável que desejamos prever.
 
