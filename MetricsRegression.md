@@ -15,10 +15,16 @@ Glossário:
 
 * Mean Absolute Error (MAE) = |f(Xi) - yi|
     
- O Erro Absoluto (MAE) é resultado da diferença entre o valor previsto e o observado
+ O Erro Absoluto (MAE) é resultado da diferença entre o valor previsto e o observado.
 
  ## Formula: (MAE)
  ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874)
+
+ * SSE/SSE
+ > Mean Squared Error ou Sum Squared Error, é a soma dos quadrados dos erros.
+
+## Formula: (SSE/MSE)
+ ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874) 
  
 
 
