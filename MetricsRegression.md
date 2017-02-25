@@ -10,5 +10,15 @@ Glossário:
 
 > f(x) -> função matemática que irá calcular a previsão e saída do modelo.
 
-> $a^*b$ with $a^*$
+
+## Medidas de Regressão
+
+* Mean Absolute Error (MAE) = |f(Xi) - yi|
+    
+> O Erro Absoluto (MAE) é resultado da diferença entre o valor previsto e o observado
+
+ ## Formula: (MAE)
+ ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874)
+ 
+
 
