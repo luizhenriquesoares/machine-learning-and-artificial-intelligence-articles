@@ -20,9 +20,11 @@ Glossário:
  ## Formula: (MAE)
  ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874)
 
- * SSE/SSE
+ 
 
 ## Formula: (SSE/MSE)
+* SSE/SSE
+
  > Mean Squared Error ou Sum Squared Error, é a soma dos quadrados dos erros.
 
  ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874) 
