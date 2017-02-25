@@ -10,4 +10,5 @@ Glossário:
 
 > f(x) -> função matemática que irá calcular a previsão e saída do modelo.
 
+> $a^*b$ with $a^*$
 
