@@ -32,9 +32,11 @@ Glossário:
 * SST
 
  > Sum Square Total é a soma total dos quadrados
- > (SST = SSE + SSR)
+ > (SST = SSE + SSR),
  > Soma total dos quadrados é a diferença entre Y linha - e o valor observado (yi)
 
 ### Formula:
  ![MAE](https://uploaddeimagens.com.br/images/000/846/067/full/MAE.png?1487969081) 
+
+Com isso o SST, consiste em pegar a variação de y em torno da média de y e o valor observado.
 
