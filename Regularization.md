@@ -25,3 +25,12 @@ Esse Método é conhecido como <b>Regularização</b>, dependendo do tipo de Reg
 Os dois grupos principais da Regularização é <b><i>Rigde</i></b> e <i><b>LASSO</i></b>:
 
 # Rigde
+
+A Regularização Rigde é um método que tem como principal objetivo suavizar atributos que sejam relacionados uns aos outros e que aumentam o ruído no modelo (multicolinearidade).
+
+O mecanismo por trás do algoritmo é de penalização, os atributos que contribuem menos para modelo é levado a irrelevância. 
+
+# LASSO
+
+O LASSO tem o mesmo mecanismo de penalização, porém ele penaliza os coeficientes de acordo com seu valor absoluto.
+
