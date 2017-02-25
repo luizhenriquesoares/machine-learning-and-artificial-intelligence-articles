@@ -28,5 +28,10 @@ Glossário:
 ### Formula:
  ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874) 
  
+## Sum Square Total: 
+* SST
+
+ > Sum Square Total é a soma total dos quadrados
+ > SST = SSE + SSR
 
 
