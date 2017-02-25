@@ -22,3 +22,6 @@ Esse Método é conhecido como <b>Regularização</b>, dependendo do tipo de Reg
 
 > A Regularização é um método que colocamos pesos sobre determinados coeficientes, conseguindo minimiza-los para encontrar um modelo adequado.
 
+Os dois grupos principais da Regularização é <b><i>Rigde</i></b> e <i><b>LASSO</i></b>:
+
+# Rigde
