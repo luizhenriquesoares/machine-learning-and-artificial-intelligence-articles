@@ -13,3 +13,12 @@ Temos basicamento 3 métodos para redução da variância quando o número de va
 * Seleção de um subconjunto de coeficientes.
 * Reduzir a dimensão 
 * Reduzir o valor dos coeficientes (Regularização)
+
+### Reduzir os valores dos coeficientes:
+
+> Nesse caso, ajustamos o modelo com todoas as variáveis, porém os coeficientes passam a receber pesos reduzindo assim variância dos dados.
+
+Esse Método é conhecido como <b>Regularização</b>, dependendo do tipo de Regularização, os coeficientes podem chegar a 0.
+
+> A Regularização é um método que colocamos pesos sobre determinados coeficientes, conseguindo minimiza-los para encontrar um modelo adequado.
+
