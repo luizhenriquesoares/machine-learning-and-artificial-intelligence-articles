@@ -16,7 +16,7 @@ Glossário:
 
  > O Erro Absoluto (MAE) é resultado da diferença entre o valor previsto e o observado.
 
-> O Mean Absolute Error fornece uma ideia de quão erradas estão nossas previsões, valor igual a 0 indica que não há erro, sendo a previsão perfeita.
+ > O Mean Absolute Error fornece uma ideia de quão erradas estão nossas previsões, valor igual a 0 indica que não há erro, sendo a previsão perfeita.
 
 ### Formula:
  ![MAE](https://uploaddeimagens.com.br/images/000/846/028/full/MAE.png?1487965874)
