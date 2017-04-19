@@ -26,3 +26,43 @@ Fazendo uma analogia, imagine uma pessoa em cima do topo de uma montanha, e para
  
 Escolhendo aleatoriamente um novo ponto de partida, depois de ter encontrado um mínimo local, e repetir o processo iterativamente, mais cedo ou mais tarde, o mínimo global seja identificado 
  
+## Implementação em python
+
+> import random
+
+> def random_w( p ):
+    return np.array([np.random.normal() for j in range(p)])
+
+> def hypothesis(X,w):
+    return np.dot(X,w)
+
+> def loss(X,w,y):
+    return hypothesis(X,w) - y
+
+> def squared_loss(X,w,y):
+    return loss(X,w,y)**2
+
+> def gradient(X,w,y):
+    gradients = list()
+    n = float(len( y ))
+    for j in range(len(w)):
+        gradients.append(np.sum(loss(X,w,y) * X[:,j]) / n)
+    return gradients
+
+> def update(X,w,y, alpha = 0.01):
+    return [t - alpha*g for t, g in zip(w, gradient(X,w,y))]
+
+> def optimize(X,y, alpha = 0.01, eta = 10**-12, iterations = 1000):
+    w = random_w(X.shape[1])
+    path = list()
+    for k in range(iterations):
+        SSL = np.sum(squared_loss(X,w,y))
+        new_w = update(X,w,y, alpha = alpha)
+        new_SSL = np.sum(squared_loss(X,new_w,y))
+        w = new_w
+        if k>=5 and (new_SSL - SSL <= eta and new_SSL - SSL >= -eta):
+            path.append(new_SSL)
+            return w, path
+        if k % (iterations / 20) == 0:
+            path.append(new_SSL)
+    return w, path 
