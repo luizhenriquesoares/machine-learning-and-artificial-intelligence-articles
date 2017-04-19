@@ -1,4 +1,4 @@
- ## Gradiente descendente e Cost Function 
+ ## Introdução ao Gradiente descendente e Cost Function 
  
  
   Quando falamos em modelos preditivos de machine learning, é comum associar a estatística e matemática e quão bem o modelo é preciso, em fazer previsões futuras sobre algo. 
