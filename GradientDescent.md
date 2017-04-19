@@ -5,7 +5,7 @@
 Por trás de todo processo, os algoritmos de machine learning são instruções para equações matemática que descreve o relacionamento entre seus coeficientes. 
  
  
- * O objetivo do algoritmo de ML é aprender um modelo que minimize os erros, A força motriz por trás do processo de otimização é a resposta para uma função interna, chamada de cost function. Também chamada  de função de perda (loss function)  
+ O objetivo do algoritmo de ML é aprender um modelo que minimize os erros, A força motriz por trás do processo de otimização é a resposta para uma função interna, chamada de cost function. Também chamada  de função de perda (loss function)  
  
  
 > A Cost function é uma função de avaliação, que mede quão bem seu modelo é preciso, a parti dos dados que você forneceu.  
