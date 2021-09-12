@@ -1,8 +1,8 @@
 # Viés e Variância (bias and variance)
 
- - Quando construimos um modelo que generaliza incorretamente particularidades dos dados, temos um problema conhecido como overfitting
+ - Quando construímos um modelo que generaliza incorretamente particularidades dos dados, temos um problema conhecido como overfitting
 
-    Uma forma ilustrativa de compreender tal fenômeno, é separar o erro de generalização em viés (bias) e variâcia (variance).
+    Uma forma ilustrativa de compreender tal fenômeno, é separar o erro de generalização em viés (bias) e variância (variance).
 
      ## Viés
     
